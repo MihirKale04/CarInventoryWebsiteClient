@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://localhost:3000/cars'; // <-- UPDATE THIS IP/PORT IF NECESSARY
+const API_BASE_URL = 'http://192.168.68.89:3000/cars'; // <-- UPDATE THIS IP/PORT IF NECESSARY
 
 const CarAPI = {
     // Fetches all cars from the API
